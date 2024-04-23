@@ -1,4 +1,4 @@
----
+![Alt text](https://github.com/sap-tutorials/sap-build-process-automation/tree/main/tutorials/spa-customize-win-gui-recorder-automation)
 author_name: Paulina Bujnicka
 author_profile: https://github.com/pbujnicka
 keywords: tutorial
